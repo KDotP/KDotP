@@ -1,2 +1,2 @@
-Hello, I'm Kieran. I'm a game designer and developer (though I prefer design) and this is my space to throw some of my projects. 
-Due to the nature of github, I'm sometimes unable to upload my projects so feel free to ask if this is related to an application :)
+Hello, I’m Kieran Persoff. I’m currently attending Arapahoe Community College where I’ve
+focused on honing my skills in Game Design and Development on top of my existing skills in Java and C#.
